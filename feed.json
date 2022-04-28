@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Rogue Hardware",
+    "description": "",
+    "home_page_url": "https://github.com/DevCentu/Rogue-Hardware.git",
+    "feed_url": "https://github.com/DevCentu/Rogue-Hardware.git/feed.json",
+    "user_comment": "",
+    "icon": "https://github.com/DevCentu/Rogue-Hardware.git/media/website/roguehardwarelogo_transparent_background_white_text.png",
+    "author": {
+        "name": "Santino Centurion"
+    },
+    "items": [
+        {
+            "id": "https://github.com/DevCentu/Rogue-Hardware.git/lorem-ipsum/",
+            "url": "https://github.com/DevCentu/Rogue-Hardware.git/lorem-ipsum/",
+            "title": "Lorem Ipsum",
+            "author": {
+                "name": "Santino Centurion"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-28T18:50:24-04:00",
+            "date_modified": "2022-04-28T18:50:24-04:00"
+        }
+    ]
+}
