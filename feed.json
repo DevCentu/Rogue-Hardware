@@ -10,17 +10,5 @@
         "name": "Santino Centurion"
     },
     "items": [
-        {
-            "id": "https://github.com/DevCentu/Rogue-Hardware.git/lorem-ipsum/",
-            "url": "https://github.com/DevCentu/Rogue-Hardware.git/lorem-ipsum/",
-            "title": "Lorem Ipsum",
-            "author": {
-                "name": "Santino Centurion"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-04-28T18:50:24-04:00",
-            "date_modified": "2022-04-28T18:50:24-04:00"
-        }
     ]
 }
